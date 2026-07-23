@@ -118,8 +118,7 @@ RNASeq-Differential-Expression-DESeq2
 ## MA Plot
 
 Shows the relationship between average normalized gene expression and log2 fold change.
-
-![MA Plot](figures/MA_plot.png)
+![MA Plot](./figures/MA_plot.png)
 
 ---
 
@@ -127,7 +126,7 @@ Shows the relationship between average normalized gene expression and log2 fold 
 
 Visualizes overall variation among RNA-seq samples.
 
-![PCA Plot](figures/PCA_plot.png)
+![PCA Plot](./figures/PCA_plot.png)
 
 ---
 
@@ -135,7 +134,7 @@ Visualizes overall variation among RNA-seq samples.
 
 Displays both the magnitude of differential expression and statistical significance.
 
-![Volcano Plot](figures/Volcano_plot.png)
+![Volcano Plot](./figures/Volcano_plot.png)
 
 ---
 
@@ -143,7 +142,8 @@ Displays both the magnitude of differential expression and statistical significa
 
 Illustrates DESeq2's estimation of gene-wise dispersion.
 
-![Dispersion Plot](figures/Dispersion_plot.png)
+
+![Dispersion Plot](./figures/Dispersion_plot.png)
 
 ---
 
@@ -151,7 +151,7 @@ Illustrates DESeq2's estimation of gene-wise dispersion.
 
 Shows the distribution of normalized gene expression across all samples.
 
-![Boxplot](figures/Boxplot_Normalized_Counts.png)
+![Boxplot of Normalized Counts](./figures/Boxplot_Normalized_Counts.png)
 
 ---
 
